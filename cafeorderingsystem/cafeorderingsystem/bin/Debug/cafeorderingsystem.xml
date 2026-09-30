@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+cafeorderingsystem
+</name>
+</assembly>
+<members>
+<member name="P:cafeorderingsystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources._344639545_1288765375371831_2196712455175700519_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources._346057881_1459645351511814_8717613506314085207_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources._355526066_1610610502766585_3497394631289262232_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Almond">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.ArrowRed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Banana">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Black_Coffee">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Black_Forest">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.blueberry">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.cafe_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Caramel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Caramel1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.cart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.cash_paymnet">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Cheesecake">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Choco_Brownies">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Choco_Chips">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Chocolate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Coconut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.GCASH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.greenarrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Hazelnut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.iphone_mobile_payment_computer_icons_cash_mobile_money_nfc_payment_phone_icon_af8adc60107fd2673285595861fe30be">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Java_Chips">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.L">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.leche_flan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.M">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Mocha">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.PAYMAYA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.pngwing_com">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Raspberry">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Red_Velvet">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.redvelvet">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.s">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Screenshot_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Screenshot_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Screenshot_7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.SMALL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.SMALL1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Strawberry">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Strawberry1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Vanilla">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.Vanilla1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:cafeorderingsystem.My.Resources.Resources.YEETED_CARD">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:cafeorderingsystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:cafeorderingsystem.Login_DatabaseDataSet.USERSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:cafeorderingsystem.Login_DatabaseDataSet.USERSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:cafeorderingsystem.Login_DatabaseDataSet.USERSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:cafeorderingsystem.Login_DatabaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:cafeorderingsystem.Login_DatabaseDataSetTableAdapters.USERSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:cafeorderingsystem.Login_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(cafeorderingsystem.Login_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:cafeorderingsystem.Login_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(cafeorderingsystem.Login_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:cafeorderingsystem.Login_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(cafeorderingsystem.Login_DatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:cafeorderingsystem.Login_DatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:cafeorderingsystem.Login_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(cafeorderingsystem.Login_DatabaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:cafeorderingsystem.Login_DatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:cafeorderingsystem.Login_DatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:cafeorderingsystem.Login_DatabaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

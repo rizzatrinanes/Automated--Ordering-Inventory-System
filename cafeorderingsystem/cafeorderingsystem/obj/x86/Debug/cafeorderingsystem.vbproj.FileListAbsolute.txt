@@ -1,0 +1,177 @@
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.best_sellers.resources
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dashboard.resources
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+C:\Users\rizza\AppData\Local\Temporary Projects\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dashboard.resources
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.specialoffer.resources
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.coffee.resources
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.icelatte.resources
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessert.resources
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.frappe.resources
+C:\Users\rizza\documents\visual studio 2010\Projects\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.login_cozycafe.resources
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.coffee.resources
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dashboard.resources
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessert.resources
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.frappe.resources
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.icelatte.resources
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.login_cozycafe.resources
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.specialoffer.resources
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+C:\Users\rizza\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.coffee.resources
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dashboard.resources
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessert.resources
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.frappe.resources
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.icelatte.resources
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.login_cozycafe.resources
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.specialoffer.resources
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+E:\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.itemshop.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.coffee.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dashboard.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessert.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.frappe.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.icelatte.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.itemshop.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.login_cozycafe.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.specialoffer.resources
+C:\Users\ADRIANE\Downloads\cafeorderingsystem\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.coffee.resources
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.ordersystem.resources
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessert.resources
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.frappe.resources
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.icelatte.resources
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.itemshop.resources
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.login_cozycafe.resources
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.specialoffer.resources
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+C:\Users\alpelloyd\Downloads\cafeorderingsystem (1)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessertform.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.coffee.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.ordersystem.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessert.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessertform.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.frappe.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.icelatte.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.itemshop.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.login_cozycafe.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.specialoffer.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe.config
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.coffee.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.ordersystem.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessert.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessertform.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.frappe.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.icelatte.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.itemshop.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.login_cozycafe.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.signup.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.specialoffer.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.loginsuccess.resources
+C:\Users\rizza\Downloads\Cafe Ordering System (2.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\Login_Database.accdb
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe.config
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\login_database.accdb
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.coffee.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.loginsuccess.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.ordersystem.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessert.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessertform.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.frappe.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.icelatte.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.itemshop.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.login_cozycafe.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.specialoffer.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.cashpay.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dashboard.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.cashreceivedandcahnge.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Payment_method.resources
+E:\Cafe Ordering System (3.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.sales.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe.config
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.exe
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.xml
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.pdb
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\login_database.accdb
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.exe
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.pdb
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\bin\Debug\cafeorderingsystem.xml
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.cashpay.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.cashreceivedandcahnge.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.coffee.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.loginsuccess.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.ordersystem.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessert.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Payment_method.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.sales.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.dessertform.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.frappe.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.icelatte.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.itemshop.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.login_cozycafe.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Resources.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.specialoffer.resources
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.vbproj.GenerateResource.Cache
+E:\Cafe Ordering System (4.0)\Cafe Ordering System (1.0.0)\Cafe Ordering System (1.0.0)\cafeorderingsystem\cafeorderingsystem\obj\x86\Debug\cafeorderingsystem.Dasboard.resources
